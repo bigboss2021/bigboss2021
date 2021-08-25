@@ -48,7 +48,7 @@ Obrigado e volte sempre! 😄
 
 
 <p align="center">
-<img  src="https://raw.githubusercontent.com/bigboss2021/Turma27-MySQL/main/teste/tumblr_mai2gkygAV1rfjowdo1_500.gif" alt="gameboy" width="580">
+<img  src="https://raw.githubusercontent.com/bigboss2021/Turma27-MySQL/main/teste/1525827403.gif" alt="gameboy" width="580">
 </p>
 
 
