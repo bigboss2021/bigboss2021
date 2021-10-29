@@ -2,8 +2,7 @@
 
 
 
-• Desenvolvedor Fullstack Java Jr- Em formação Generation Brasil
-
+• Desenvolvedor Fullstack Java Jr
 
 • 📍 São Paulo- SP
 
