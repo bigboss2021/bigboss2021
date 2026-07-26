@@ -33,11 +33,9 @@ Here are some ideas to get you started:
 </a>
 
 
-<p align="center">
- Quantidade de visitas no meu perfil desde: 01/07/2021 🕵 <br></p>
-
-Obrigado e volte sempre! 😄
+<p>Obrigado e volte sempre! 😄
 </p>
+
 
 
 <p align="center">
