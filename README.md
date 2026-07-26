@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  Quantidade de visitas no meu perfil desde: 01/07/2021 🕵 <br></p>
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/bigboss2021/count.svg" /></p>
-<p align="center">
+
 Obrigado e volte sempre! 😄
 </p>
 
