@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.instagram.com//mih_lima_zeon/" alt="Instagram" target="_blank">
+<a href="https://www.instagram.com/_limaartes__/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mih_lima_zeon/">
 </a>
 
@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigboss2021&theme=midnight-purple&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigboss2021&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
  Quantidade de visitas no meu perfil desde: 01/07/2021 🕵 <br></p>
