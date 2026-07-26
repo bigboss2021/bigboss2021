@@ -33,9 +33,6 @@ Here are some ideas to get you started:
 </a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigboss2021&theme=midnight-purple&show_icons=true)
-
-
 <p align="center">
  Quantidade de visitas no meu perfil desde: 01/07/2021 🕵 <br></p>
 <p align="center"> 
